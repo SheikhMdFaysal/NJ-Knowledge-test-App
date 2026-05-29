@@ -1,0 +1,6 @@
+{
+  "name": "NJ Permit Practice",
+  "description": "Premium New Jersey MVC Permit Practice application featuring full study mode, realistic mock exams, interactive multi-dimensional mind maps, 3D animated flashcards, search and extensive progress diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
